@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## CS Essentials
 
-You can use the [editor on GitHub](https://github.com/Church-of-Evan/cs-essentials/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](http://textfiles.com/underconstruction/mamagnolia_acresunderconstruction.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CS Essentials is a series of (TODO: weekly?) online lectures taught by your fellow OSU students over the summer. We'll talk about tips, tricks, and tools to help you succeed in your CS education, with a heavy focus on **things you're expected to know but OSU doesn't teach** -- like the shell, ssh & flip, vim, git, gdb, valgrind, and more. Think similar to [MIT's Missing Semester](https://missing.csail.mit.edu), but for OSU students.
 
-### Markdown
+### Who's it for?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This course is aimed primarily at incoming sophomores at Oregon State University. But you don't have to be a sophomore or an OSU student to join -- there's something in here for everyone to benefit from.
 
-```markdown
-Syntax highlighted code block
+### Who are you?
 
-# Header 1
-## Header 2
-### Header 3
+We're a bunch of OSU students, mostly juniors and seniors, who want to help our peers by sharing some of the things we've learned. This project is a collaboration between the [OSU Linux Users Group](https://lug.oregonstate.edu/), [OSU Security Club](https://www.osusec.org/), [OSU ACM](http://acm.oregonstate.edu/), and the Church of Evan student-run community Discord server.
 
-- Bulleted
-- List
+### I'm interested, how do I join?
 
-1. Numbered
-2. List
+That's a really good question.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Church-of-Evan/cs-essentials/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(TODO: schedule, CoE invite link?)
