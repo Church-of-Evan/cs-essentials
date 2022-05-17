@@ -10,7 +10,7 @@ This course is aimed primarily at incoming sophomores at Oregon State University
 
 ### Who are you?
 
-We're a bunch of OSU students, mostly juniors and seniors, who want to help our peers by sharing some of the things we've learned. This project is a collaboration between the [OSU Linux Users Group](https://lug.oregonstate.edu/), [OSU Security Club](https://www.osusec.org/), [OSU ACM](http://acm.oregonstate.edu/), and the Church of Evan student-run community Discord server.
+We're a bunch of OSU students, mostly juniors and seniors, who want to help our peers by sharing some of the things we've learned. This project is a collaboration between the [OSU Linux Users Group](https://lug.oregonstate.edu/), [OSU Security Club](https://www.osusec.org/), [OSU ACM](http://acm.oregonstate.edu/), and the [Church of Evan](https://discord.gg/w2mzzAG4Ez) student-run community Discord server.
 
 ### I'm interested, how do I join?
 
