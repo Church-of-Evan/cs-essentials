@@ -4,7 +4,7 @@ CS Essentials is a series of **weekly online summer lectures** taught by your fe
 
 ### Who's it for?
 
-This course is aimed primarily at incoming sophomores at Oregon State University. But you don't have to be a sophomore or an OSU student to join -- there's something in here for everyone to benefit from.
+This course is aimed primarily at incoming sophomores in the Computer Science program at Oregon State University. But you don't have to be a sophomore, a CS student, or an OSU student to join -- there's something in here for everyone to benefit from.
 
 ### Who are you?
 
