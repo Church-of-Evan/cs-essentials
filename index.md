@@ -1,6 +1,6 @@
 ## CS Essentials
 
-CS Essentials is a series of **weekly online summer lectures** taught by your fellow OSU students. We'll talk about concepts, resources, and tools to help you succeed in your CS education, with a heavy focus on topics you need to know but that aren't covered super well in-class -- things like using **the OSU servers** (basic shell commands, ssh & flip), **text editors** (vim, VS Code), **version control** (git, GitHub), **debugging tools** (gdb, valgrind), and more. Think similar to [MIT's Missing Semester](https://missing.csail.mit.edu), but adapted for OSU students.
+CS Essentials is a series of **weekly online summer lectures** taught by your fellow OSU students. We'll talk about concepts, resources, and tools to help you succeed in your CS education -- things like using **the OSU servers** (basic shell commands, ssh & flip), **text editors** (vim, VS Code), **version control** (git, GitHub), **debugging tools** (gdb, valgrind), and more. Think similar to [MIT's Missing Semester](https://missing.csail.mit.edu), but adapted for OSU students.
 
 ### Who's it for?
 
