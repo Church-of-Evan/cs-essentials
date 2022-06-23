@@ -12,6 +12,6 @@ We're a bunch of OSU students, mostly juniors and seniors, who want to help our 
 
 ### I'm interested, how do I join?
 
-Fill out our [interest form](https://forms.gle/jZne3San1mzjJQCG6)! You'll get a link to the Discord server, and we'll send you an email with more information as we get closer to the summer.
+Lectures are held on Discord every Wednesday at 6:30 PM (UTC-07:00). To get a Discord invite, fill out our [interest form](https://forms.gle/jZne3San1mzjJQCG6)! We'll also publish slides and recordings on this website in case you can't make it to a live session.
 
 If you have questions, comments, suggestions, or want to get involved, head over to the #cs-essentials channel on Discord, or email us at [info@cs-essentials.com](mailto:info@cs-essentials.com).
